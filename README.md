@@ -2,7 +2,8 @@
 
 # Front-End Roadmapsh Andre
 
-This repository contains simple front-end projects for practice and learning, inspired by [roadmap.sh](https://roadmap.sh/projects/single-page-cv).
+
+This repository contains simple front-end projects for practice and learning, inspired by [roadmap.sh Single Page CV](https://roadmap.sh/projects/single-page-cv) and [roadmap.sh Basic HTML Website](https://roadmap.sh/projects/basic-html-website).
 
 ## Folder Structure
 
