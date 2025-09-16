@@ -1,20 +1,24 @@
 
+
 # Front-End Roadmapsh Andre
 
-This repository contains a simple front-end project for practice and learning.
+This repository contains simple front-end projects for practice and learning, inspired by [roadmap.sh](https://roadmap.sh/projects/single-page-cv).
 
 ## Folder Structure
 
-- `single-page-cv/` : Contains a sample single-page CV using HTML and CSS.
-	- `index.html` : Main CV file.
+- [`basic-html-website/`](basic-html-website/index.html): Basic HTML website template with navigation, sections, and sample content.
+- [`single-page-cv/`](single-page-cv/index.html): Single-page CV using HTML and CSS.
 
 ## How to Run
 
 1. Open this folder in VS Code.
-2. Open the `single-page-cv/index.html` file in your browser to view the result.
+2. Open any project folder and double-click the `index.html` file to view it in your browser.
+
+## Projects
+
+- [Basic HTML Website](basic-html-website/index.html)
+- [Single Page CV](single-page-cv/index.html)
 
 ## Contribution
 
 Feel free to fork and submit a pull request if you want to add features or improvements.
-# front-end-roadmapsh-andre
-https://roadmap.sh/projects/single-page-cv
